@@ -1,0 +1,13 @@
+# This config file contains the code of projects that are part of update issues status scope.
+# In order to add a new project, simply add a new line with the project code that should be visilble from JIRA
+
+projects:
+  #EP1
+  MAZA
+  DAAM
+  IST
+  OSP
+  TAJ
+  OF
+  BOR
+  CM
